@@ -1,6 +1,6 @@
 /*
 ################## Brutter v1.0 ######################
-Autor: Daniel Andraszewski    
+Autor: Daniel Andraszewski
 Program na potrzeby z projektu przedmiotu
 Programowanie Równoleg³e i Rozproszone
 Politechnika Warszawska, 2017/2018
@@ -26,7 +26,7 @@ const int PRINT_ITERATION_OUTPUT = 0;
 void printHeader()
 {
 	printf("############### Brutter v1.0 ###############\n");
-	printf("Autor: Daniel Andraszewski    \n");
+	printf("Autor: Daniel Andraszeski, nr albumu: 287412\n");
 	printf("\n");
 }
 
